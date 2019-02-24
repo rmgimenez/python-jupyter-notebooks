@@ -41,6 +41,14 @@ symbol_dict = {
     'CSNA3.SA': 'CSNA3',
     'FESA4.SA': 'FESA4',
     'CRPG5.SA': 'CRPG5',
+    'BBAS3.SA': 'BANCO DO BRASIL',
+    'ITSA4.SA': 'ITAU',
+    'CIEL3.SA': 'CIELO',
+    'GGBR4.SA': 'GERDAU',
+    'SBSP3.SA': 'SABESP',
+    'KROT3.SA': 'KROTON',
+    'VIVT4.SA': 'VIVO',
+    'FIBR3.SA': 'FIBR3',
     }
 
 
